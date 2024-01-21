@@ -39,4 +39,4 @@ Make sure you have Node.js and npm installed on your machine.
    git clone https://github.com/mthirumalai2905/Markdown-Preview-Using-React.git
 
 
-![preview](https://github.com/mthirumalai2905/Markdown-Preview-Using-React/issues/1#issue-2092435095)
+![readme.md](https://github.com/mthirumalai2905/Markdown-Preview-Using-React/issues/1#issue-2092435095/readme.md)
